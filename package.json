@@ -1,0 +1,24 @@
+{
+  "name": "learning-frontend",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "author": "wang xiao yang",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^1.0.0",
+    "axios": "^0.26.0",
+    "element-plus": "^2.0.3",
+    "vue": "^3.2.31",
+    "vue-router": "4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.2",
+    "@vue/compiler-sfc": "^3.2.31",
+    "vite": "^2.8.4"
+  }
+}
